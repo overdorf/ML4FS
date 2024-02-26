@@ -27,13 +27,13 @@ def parse_language(user_input):
     A2 = []
     A1 = []
     # YOUR CODE HERE
-    return native langs, C2, C1, B2, B1, A2, A1
+    return native_langs, C2, C1, B2, B1, A2, A1
     
     
     
 if __name__ == "__main__":
     # Check if filename argument is provided
-    if len(sys.argv) != 2:
+    if len(sys.argv) != 3:
         print("Usage: python3 language_parser_lastname.py input_file.csv output_file.csv")
         sys.exit(1)
 
@@ -42,9 +42,9 @@ if __name__ == "__main__":
     outfile = sys.argv[2]
 
     # read in the file, line by line
-    with open(outfile, 'w') as out:
+    with open(outfile, 'w', encoding='utf-8') as out:
         out.write('username,N,C2,C1,B2,B1,A2,A1\n')
-        with open(infile, 'r') as file:
+        with open(infile, 'r', encoding='utf-8') as file:
             headers = next(file) # 'username,user_input'
             for line in file:
                 line = line.strip().split(',') # ['username','user_input']
