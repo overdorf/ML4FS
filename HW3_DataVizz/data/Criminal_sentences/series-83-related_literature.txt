@@ -1,0 +1,75 @@
+Bibliography
+Monitoring of Federal Criminal Sentences Series
+
+This bibliography includes published and unpublished works that are
+related to ICPSR series 83. It includes works that are based on
+primary or secondary analysis of the data, or which describe or critique
+those data or the collection methodology. This list represents all items
+known to ICPSR as of 2019-05-21.
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR series used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Blowers, Anita N.; Doerner, Jill K., "Sentencing outcomes of the older
+prison population: An exploration of the age leniency argument." Journal of
+Crime and Justice. 2015, 38, (1), 58 - 76. DOI:
+10.1080/0735648X.2013.822161
+
+2. Demuth, Stephen, "The effect of citizenship status on sentencing
+outcomes in drug cases." Federal Sentencing Reporter. Mar/Apr 2002, 14,
+(5), 271 - 275. DOI: 10.1525/fsr.2002.14.5.271
+
+3. Doerner, Jill K., "Gender disparities in sentencing departures: An
+examination of U.S. federal courts." Women and Criminal Justice. 2012, 22,
+(3), 176 - 205. DOI: 10.1080/08974454.2012.687953
+
+4. Doerner, Jill K.; Demuth, Stephen, "Gender and sentencing in the federal
+courts: Are women treated more leniently?." Criminal Justice Policy Review.
+Mar 2014, 25, (2), 242 - 269. DOI: 10.1177/0887403412466877
+
+5. Doerner, Jill K.; Demuth, Stephen, "The independent and joint effects of
+race/ethnicity, gender and age on sentencing outcomes in U. S. Federal
+courts." Justice Quarterly. Feb 2010, 27, (1), 1 - 27. DOI:
+10.1080/07418820902926197
+
+6. Gillespie, William Lee, "Constrained Justice: Investigating the
+Influence of the U.S. Courts of Appeals on District Court Sentencing
+Behavior." Dissertation, University of Georgia, 2004.
+
+7. Light, Michael T.; Massoglia, Michael; King, Ryan D., "Citizenship and
+punishment: The salience of national membership in U.S. criminal courts."
+American Sociological Review. Oct 2014, 79, (5), 825 - 847. DOI:
+10.1177/0003122414543659
+
+8. Maddan, Sean; Hartley, Richard D.; Walker, Jeffery T.; Miller, J.
+Mitchell, "Sympathy for the devil: An exploration of federal judicial
+discretion in the processing of white-collar offenders." American Journal
+of Criminal Justice. Mar 2012, 37, (1), 4 - 18. DOI: 10.1007/s12103-010-
+9094-y
+
+9. Nowacki, Jeffrey, "United States v. Booker and Federal Sentencing
+Outcomes: General, Extra-Legal, and Contextual Policy Effects."
+Dissertation, University of New Mexico, 2014.
+
+10. Nowacki, Jeffrey S., "Race, ethnicity, and judicial discretion: The
+influence of the United States v. Booker decision." Crime and Delinquency.
+Dec 2015, 61, (10), 1360 - 1385. DOI: 10.1177/0011128712470990
+
+11. Nutting, Andrew W., "Squealer dealers: The market for information in
+federal drug trafficking prosecutions." Economic Inquiry. Jan 2015, 53,
+(1), 486 - 507. DOI: 10.1111/ecin.12123
+
+12. Ouziel, Lauren M., "Legitimacy and federal criminal enforcement power."
+Yale Law Journal. May 2014, 123, (7), 2236 - 2332.
+Abstract: https://ssrn.com/abstract=2411594
+Full text: https://www.yalelawjournal.org/article/legitimacy-and-federal-criminal-enforcement-power
+Full text PDF: https://www.yalelawjournal.org/pdf/123.7.Ouziel_ejdrrqmc.pdf
+
+13. Schanzenbach, Max, "Racial and Sex Disparities in Prison Sentences: The
+Effect of District-level Judicial Demographics." Journal of Legal Studies.
+Jan 2005, 34, (1), 57 - 92. DOI: 10.1086/425597
+Abstract: https://ssrn.com/abstract=2411594
+Full text: https://www.yalelawjournal.org/article/legitimacy-and-federal-criminal-enforcement-power
+Full text PDF: https://www.yalelawjournal.org/pdf/123.7.Ouziel_ejdrrqmc.pdf

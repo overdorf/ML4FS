@@ -1,0 +1,61 @@
+File Manifest for ICPSR 37975
+
+United States Sentencing Commission. Monitoring of Federal Criminal
+Sentences, [United States], 2016-2017. ICPSR37975-v1. Ann Arbor, MI: Inter-
+university Consortium for Political and Social Research [distributor],
+2022-03-29. http://doi.org/10.3886/ICPSR37975.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37975-descriptioncitation.pdf       -       -         -       2022-03-29  -
+
+    37975-related_literature.txt        -       -         -       daily       -
+
+    37975-manifest.txt                  -       -         -       daily       -
+
+    37975-Codebook.pdf                  -       -         -       2022-03-29  630e6c193635b8cfeada606f67792493
+
+
+DS0001 Main Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37975-0001-Data.rda                 -       66,873    527     2022-03-29  a0cbd51befa69c6a4abdc351f66c5060
+
+    37975-0001-Data.sav                 -       66,873    527     2022-03-29  64b2b0790fb9bc5f2292f5900e992b2b
+
+    37975-0001-Data.stc                 -       66,873    527     2022-03-29  76c61e6cbc89c0975a82f5b0636b3a82
+
+    37975-0001-Data.tsv                 -       66,873    527     2022-03-29  57b3eabc4ba37e15fe28bb679010e845
+
+    37975-0001-Data.txt                 7042    66,873    527     2022-03-29  ef25670ae41ca98acd2a97dd7b96b8e5
+
+    37975-0001-Setup.sas                -       -         -       2022-03-29  5ce1a805e3bc54245bd075161b5fa73a
+
+    37975-0001-Setup.sps                -       -         -       2022-03-29  94f705c3e8db9b6c92856cd0f6b55cb3
+
+
+DS0002 Supplemental Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37975-0002-Data.rda                 -       66,873    20376   2022-03-29  5df08208d07a99decb74d4560fb5831c
+
+    37975-0002-Data.sav                 -       66,873    20376   2022-03-29  a18b46aa6b377297fd4b131e74266934
+
+    37975-0002-Data.stc                 -       66,873    20376   2022-03-29  e9c0b043c65d7a6b8ebe655fd25e9c19
+
+    37975-0002-Data.tsv                 -       66,873    20376   2022-03-29  dac6043d5e388259cbe54e1a7de03dc6
+
+    37975-0002-Data.txt                 32030   66,873    20376   2022-03-29  521e822a9faff1c2ba24438b4ce54567
+
+    37975-0002-Setup.sas                -       -         -       2022-03-29  e69c75587a4d420f704939586c09c053
+
+    37975-0002-Setup.sps                -       -         -       2022-03-29  49e1784021a74837ac2ff12c3c73dccc
+
